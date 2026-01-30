@@ -7,5 +7,5 @@ Features
 * Doctor Records
 * Appointment Scheduling
 Technologies
-Java
-Git
+ Java
+ Git
